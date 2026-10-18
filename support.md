@@ -4,7 +4,7 @@ TeleTake brings scripts, a front-camera teleprompter and editable captions to An
 
 ## Contact
 
-info@easytechcommerce.com
+Victor Arboleda · info@easytechcommerce.com
 
 For help or privacy questions, email the address above. Include your TeleTake version from Settings, your Android version, your phone model and the steps that caused the issue. Send only the information needed. Do not include passwords or private recordings unless you choose to share a relevant sample.
 

@@ -1,9 +1,10 @@
 # TeleTake Privacy Policy
 
-Publisher details and effective date are being finalized before the Google Play release.
+Effective date: October 17, 2026
 
 This policy covers TeleTake for Android, package com.varboleda.teleprompt, version 0.2.2.
 
+Developer: Victor Arboleda
 Privacy and support contact: info@easytechcommerce.com
 
 ## Your content
